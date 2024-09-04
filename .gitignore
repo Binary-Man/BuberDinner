@@ -62,10 +62,6 @@ App_Data/
 # Fody - auto-generated XML schema
 FodyWeavers.xsd
 
-# Elsa Stencil Components
-src/designer/elsa-workflows-designer/dist
-src/designer/elsa-workflows-designer/www
-src/designer/elsa-workflows-designer/loader
 
 # Created by developers using GNU/Linux
 .directory
